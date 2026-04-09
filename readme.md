@@ -4,7 +4,7 @@
 > ###### * = Equal contribution
 
 This repository contains code for extracting structured relational data as JSON documents from complex scientific text, with particular application to materials science.
-For the Llama-2 fine-tuned models and code, see the supplemetary [nerre-llama](https://github.com/lbnlp/nerre-llama) repo.
+For the Llama-2 fine-tuned models and code, see the supplemetary [nerre-llama](https://github.com/Abhishek-Kumar-Rai5/LLM-Nerre.git) repo.
 
 
 ## Contents
@@ -15,7 +15,7 @@ For the Llama-2 fine-tuned models and code, see the supplemetary [nerre-llama](h
    - Code for preparing cross-validation splits for all models
    - Code for scoring results for all models
    - Initial inputs (annotations), intermediate files (if applicable), and final outputs for results shown in the paper for all models
-   - For Llama-2 fine-tuning code and weights, see the supplementary [nerre-llama](https://github.com/lbnlp/nerre-llama) repo
+   - For Llama-2 fine-tuning code and weights, see the supplementary [nerre-llama](https://github.com/Abhishek-Kumar-Rai5/LLM-Nerre.git) repo
  - Includes the annotation UI (including optional in-the-loop annotation if you have your own LLM fine tune) for annotating new datasets!
 
 **Doping models** (`doping` subdirectory): 
@@ -24,7 +24,7 @@ For the Llama-2 fine-tuned models and code, see the supplemetary [nerre-llama](h
   - Code for preparing train/test splits for all models/schemas
   - Code for scoring results for all models/schemas
   - Initial inputs (annotations), intermediate files (incl. decoded entries), and final outputs for results shown in the paper for all models/schemas
-  - For Llama-2 fine-tuning code and weights for all schemas, see the supplementary [nerre-llama](https://github.com/lbnlp/nerre-llama) repo
+  - For Llama-2 fine-tuning code and weights for all schemas, see the supplementary [nerre-llama](https://github.com/Abhishek-Kumar-Rai5/LLM-Nerre.gita) repo
 - Includes annotation CLI for annotating new doping examples from your own data.
 
 
